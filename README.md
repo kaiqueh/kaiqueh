@@ -1,10 +1,16 @@
 ### Ola... Sou Kaique Oliveira dos Reis
-📗 Sou estudante de engenharia da computação.
+📗 Sou estudante de engenharia da computação. Primeiro semestre 1/10
+
 <div align="center">
   <a href="https://github.com/kaiqueh">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiqueh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueh&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiqueh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueh&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+  ##
+  
+  <h3>  Minhas skils </h3>
+  
 <div>
   <img align="center" height="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -16,6 +22,12 @@
  </div>
   
   ##
+  <h3>  Forma de Comunicação </h3>
+  
+  <a href="mailto:kaiquefps555@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
+  ##
+  <h3>  Redes Sociais </h3>
   
   <div>
     <a href="https://www.instagram.com/kaique_reisz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
