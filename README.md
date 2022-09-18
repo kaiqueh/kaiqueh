@@ -74,4 +74,6 @@
 
 <img align="right" src="https://profile-counter.glitch.me/kaiqueh/count.svg?"  />
 
+![snake gif](https://github.com/kaiqueh/kaiqueh/blob/output/github-contribution-grid-snake.svg)
+
 ###
