@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📗Sou estudante de engenharia da computação. Primeiro segundo 2/10<br>💻estou em busca do meu primeiro emprego na área de desenvolvimento<br>👨‍🎓Atualmente estudando React e React Native .</p>
+<p align="left">📗Sou estudante de engenharia da computação. Primeiro segundo 3/10<br>💻estou em busca do meu primeiro emprego na área de desenvolvimento<br>👨‍🎓Atualmente estudando React e React Native .</p>
 
 ###
 
